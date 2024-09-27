@@ -1,8 +1,8 @@
 # Identificação
 
-* Nome: 
-* Email (@ccc): 
-* Matrícula: 
+* Nome: Lázaro Queiroz do Nascimento
+* Email (@ccc): lazaro.queiroz.nascimento@ccc.ufcg.edu.br
+* Matrícula: 123110628 
 
 # Roteiro: isAVL
 
